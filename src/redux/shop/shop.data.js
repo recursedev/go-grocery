@@ -1,5 +1,5 @@
-const SHOP_DATA = [
-    {
+const SHOP_DATA = {
+    vegetables: {
       id: 1,
       title: 'vegetables',
       routeName: 'vegetables',
@@ -60,10 +60,10 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    fruits:{
       id: 2,
-      title: 'Sneakers',
-      routeName: 'sneakers',
+      title: 'fruits',
+      routeName: 'fruits',
       items: [
         {
           id: 10,
@@ -115,10 +115,10 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    dairy: {
       id: 3,
-      title: 'Jackets',
-      routeName: 'jackets',
+      title: 'dairy',
+      routeName: 'dairy',
       items: [
         {
           id: 18,
@@ -152,10 +152,10 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    frozen: {
       id: 4,
-      title: 'Womens',
-      routeName: 'womens',
+      title: 'frozen',
+      routeName: 'frozen',
       items: [
         {
           id: 23,
@@ -201,10 +201,10 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    snacks:{
       id: 5,
-      title: 'Mens',
-      routeName: 'mens',
+      title: 'snacks',
+      routeName: 'snacks',
       items: [
         {
           id: 30,
@@ -244,6 +244,6 @@ const SHOP_DATA = [
         }
       ]
     }
-  ];
+};
 
   export default SHOP_DATA;
