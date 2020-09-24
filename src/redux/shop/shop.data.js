@@ -7,56 +7,56 @@ const SHOP_DATA = {
         {
           id: 1,
           name: 'Egg Plant',
-          imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-          price: 25
+          imageUrl: 'https://i.ibb.co/vcKWS9Y/egg-plant.jpg',
+          price: 2.49
         },
         {
           id: 2,
           name: 'Okra',
-          imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-          price: 18
+          imageUrl: 'https://i.ibb.co/thfBw6F/Okra.jpg',
+          price: 1.69
         },
         {
           id: 3,
           name: 'Cauliflower',
-          imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-          price: 35
+          imageUrl: 'https://i.ibb.co/sQMjX6x/Cauliflower.jpg',
+          price: 5.49
         },
         {
           id: 4,
           name: 'Raddish',
-          imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
-          price: 25
+          imageUrl: 'https://i.ibb.co/F7RGgzD/Raddish.jpg',
+          price: 2.00
         },
         {
           id: 5,
           name: 'Bell peppers',
-          imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-          price: 18
+          imageUrl: 'https://i.ibb.co/SfMZBHQ/Bell-pepper.jpg',
+          price: 3.49
         },
         {
           id: 6,
           name: 'Onions',
-          imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-          price: 14
+          imageUrl: 'https://i.ibb.co/FBHz0Dh/Fresh-onion-bulb-isolated-on-white-With-clipping-path.jpg',
+          price: 8.49
         },
         {
           id: 7,
           name: 'Potato',
-          imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-          price: 18
+          imageUrl: 'https://i.ibb.co/6YQLZn3/Potatoes.png',
+          price: 6.49
         },
         {
           id: 8,
           name: 'Spinach',
-          imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-          price: 14
+          imageUrl: 'https://i.ibb.co/hHbXbtc/Spinach.jpg',
+          price: 4.50
         },
         {
           id: 9,
           name: 'Coriander',
-          imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-          price: 16
+          imageUrl: 'https://i.ibb.co/hRbjTCw/Coriander.jpg',
+          price: 2.69
         }
       ]
     },
@@ -67,51 +67,51 @@ const SHOP_DATA = {
       items: [
         {
           id: 10,
-          name: 'Adidas NMD',
-          imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
-          price: 220
+          name: 'Kiwi',
+          imageUrl: 'https://i.ibb.co/Syj8Zk7/Kiwi.jpg',
+          price: 3.59
         },
         {
           id: 11,
-          name: 'Adidas Yeezy',
-          imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
-          price: 280
+          name: 'Banana',
+          imageUrl: 'https://i.ibb.co/z8pKPgY/Banana.jpg',
+          price: .89
         },
         {
           id: 12,
-          name: 'Black Converse',
-          imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
-          price: 110
+          name: 'Apple',
+          imageUrl: 'https://i.ibb.co/mNQGzDZ/Apple.jpg',
+          price: 2.49
         },
         {
           id: 13,
-          name: 'Nike White AirForce',
-          imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
-          price: 160
+          name: 'Cherry',
+          imageUrl: 'https://i.ibb.co/Xk8xsKr/Cherry.jpg',
+          price: 5.50
         },
         {
           id: 14,
-          name: 'Nike Red High Tops',
-          imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
-          price: 160
+          name: 'Avocado',
+          imageUrl: 'https://i.ibb.co/bFrdFCm/Avocado.jpg',
+          price: 1.20
         },
         {
           id: 15,
-          name: 'Nike Brown High Tops',
-          imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+          name: 'Blueberries',
+          imageUrl: 'https://i.ibb.co/0ct6vH1/Blueberries.png',
           price: 160
         },
         {
           id: 16,
-          name: 'Air Jordan Limited',
-          imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-          price: 190
+          name: 'Orange',
+          imageUrl: 'https://i.ibb.co/X3Vg3Zk/Orange.jpg',
+          price: 2.20
         },
         {
           id: 17,
-          name: 'Timberlands',
-          imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-          price: 200
+          name: 'Grapefruit',
+          imageUrl: 'https://i.ibb.co/CtjS41h/Grapefruit.jpg',
+          price: 1.29
         }
       ]
     },
@@ -122,33 +122,33 @@ const SHOP_DATA = {
       items: [
         {
           id: 18,
-          name: 'Black Jean Shearling',
-          imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-          price: 125
+          name: 'Eggs',
+          imageUrl: 'https://i.ibb.co/FmVFYps/Eggs.jpg',
+          price: 3.49
         },
         {
           id: 19,
-          name: 'Blue Jean Jacket',
-          imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-          price: 90
+          name: 'Milk',
+          imageUrl: 'https://i.ibb.co/XYXJR5P/Milk.jpg',
+          price: 3.48
         },
         {
           id: 20,
-          name: 'Grey Jean Jacket',
-          imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-          price: 90
+          name: 'Butter',
+          imageUrl: 'https://i.ibb.co/db7S74X/Butter.jpg',
+          price: 5.89
         },
         {
           id: 21,
-          name: 'Brown Shearling',
-          imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-          price: 165
+          name: 'Yogurt',
+          imageUrl: 'https://i.ibb.co/2YzjWCn/Yogurt.jpg',
+          price: 3.27
         },
         {
           id: 22,
-          name: 'Tan Trench',
-          imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-          price: 185
+          name: 'Cheese',
+          imageUrl: 'https://i.ibb.co/r7tDPRM/Cheese.jpg',
+          price: 4.89
         }
       ]
     },
@@ -159,45 +159,45 @@ const SHOP_DATA = {
       items: [
         {
           id: 23,
-          name: 'Blue Tanktop',
-          imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-          price: 25
+          name: 'Hashbrown',
+          imageUrl: 'https://i.ibb.co/9TJJGyt/Hash-Brown.png',
+          price: 4.27
         },
         {
           id: 24,
-          name: 'Floral Blouse',
-          imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
-          price: 20
+          name: 'Spring Rolls',
+          imageUrl: 'https://i.ibb.co/3RfGRf8/Spring-rolls.jpg',
+          price: 3.45
         },
         {
           id: 25,
-          name: 'Floral Dress',
-          imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-          price: 80
+          name: 'Fries',
+          imageUrl: 'https://i.ibb.co/ysYpPF6/Fries.jpg',
+          price: 4.49
         },
         {
           id: 26,
-          name: 'Red Dots Dress',
-          imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
-          price: 80
+          name: 'Frozen pizza',
+          imageUrl: 'https://i.ibb.co/3pf7SjG/Frozen-Pizza.jpg',
+          price: 3.50
         },
         {
           id: 27,
-          name: 'Striped Sweater',
-          imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
-          price: 45
+          name: 'Frozen Corn',
+          imageUrl: 'https://i.ibb.co/CtTWQfF/Frozen-Corn.jpg',
+          price: 3.69
         },
         {
           id: 28,
-          name: 'Yellow Track Suit',
-          imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-          price: 135
+          name: 'Haegan Dazs Almond',
+          imageUrl: 'https://i.ibb.co/GR81XFc/Haegan-dazs.jpg',
+          price: 6.57
         },
         {
           id: 29,
-          name: 'White Blouse',
-          imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-          price: 20
+          name: 'Pizza pops',
+          imageUrl: 'https://i.ibb.co/GC9FH6w/Pizza-pops.jpg',
+          price: 4.59
         }
       ]
     },
@@ -208,39 +208,39 @@ const SHOP_DATA = {
       items: [
         {
           id: 30,
-          name: 'Camo Down Vest',
-          imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-          price: 325
+          name: 'Cheetos',
+          imageUrl: 'https://i.ibb.co/CJW3nFn/Cheetos.jpg',
+          price: 4.57
         },
         {
           id: 31,
-          name: 'Floral T-shirt',
-          imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-          price: 20
+          name: 'Humpty Dumpty',
+          imageUrl: 'https://i.ibb.co/vQxm638/Humpty-Dumpty.jpg',
+          price: 4.57
         },
         {
           id: 32,
-          name: 'Black & White Longsleeve',
-          imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
-          price: 25
+          name: 'Pringles',
+          imageUrl: 'https://i.ibb.co/k2NpnM3/Pringles.jpg',
+          price: 3.27
         },
         {
           id: 33,
-          name: 'Pink T-shirt',
-          imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-          price: 25
+          name: 'Lays',
+          imageUrl: 'https://i.ibb.co/WDQWFh5/Lays.jpg',
+          price: 4.27
         },
         {
           id: 34,
-          name: 'Jean Long Sleeve',
-          imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-          price: 40
+          name: 'Miss-Vickies',
+          imageUrl: 'https://i.ibb.co/GCP65xp/Miss-Vickies.jpg',
+          price: 3.78
         },
         {
           id: 35,
-          name: 'Burgundy T-shirt',
-          imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-          price: 25
+          name: 'Ruffles',
+          imageUrl: 'https://i.ibb.co/QjQs9st/Ruffles.jpg',
+          price: 3.98
         }
       ]
     }

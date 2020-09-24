@@ -1,32 +1,32 @@
 const INITIAL_STATE ={
     sections: [{
         title: 'Vegetables',
-        imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+        imageUrl: 'https://i.ibb.co/2Sq8FMb/Vegetables.jpg',
         id: 1,
         linkUrl: 'shop/vegetables'
     },
     {
         title: 'Fruits',
-        imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+        imageUrl: 'https://i.ibb.co/DCBz7sz/Fruits.jpg',
         id: 2,
         linkUrl: 'shop/fruits'
     },
     {
         title: 'Dairy',
-        imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+        imageUrl: 'https://i.ibb.co/sqyXfWh/Dairy.jpg',
         id: 3,
         linkUrl: 'shop/dairy'
     },
     {
         title: 'Frozen',
-        imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+        imageUrl: 'https://i.ibb.co/QNHLGrz/Frozen-food.jpg',
         size: 'large',
         id: 4,
         linkUrl: 'shop/frozen'
     },
     {
         title: 'Snacks',
-        imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+        imageUrl: 'https://i.ibb.co/WHtts32/Snacks.jpg',
         size: 'large',
         id: 5,
         linkUrl: 'shop/snacks'
